@@ -66,6 +66,6 @@ How this function works:
 
 - Store all studyIDs present on "Destination PACS" in an array
 - Start Iterating over this array
-    - Archive each study (on PACS)
+    - Archive each study (on Source PACS)
     - Transfer it to "Destinantion PACS"
    
