@@ -59,7 +59,8 @@ All functions are stored in the `Download` directory. The `main_download.py` scr
 
 ### 3. Transfer
 
-This module includes function that helps us transfer all data from "Source PACS" to "Destination PACS" given that we have the URL and thee PACS are not password-protected 
+This module includes function that helps us transfer all data from "Source PACS" to "Destination PACS" given that we have the URL and thee PACS are not password-protected.
+
 (a slight modification is required to enable transfer b/w "Password-Protected" PACS)
 
 How this function works:
